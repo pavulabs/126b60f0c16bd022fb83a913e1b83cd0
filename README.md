@@ -1,6 +1,6 @@
 # Pavu beta website
 
-This repository hosts a separate preview of the Pavu Labs website. The production site is [pavu.cn](https://pavu.cn/) and is published from [`pavulabs.github.io`](https://github.com/pavulabs/pavulabs.github.io). Changes in this beta repository never deploy to the production site.
+This repository hosts a separate preview of the Pavu Labs website at [pavu.cn/126b60f0c16bd022fb83a913e1b83cd0/](https://pavu.cn/126b60f0c16bd022fb83a913e1b83cd0/). The production site is [pavu.cn](https://pavu.cn/) and is published from [`pavulabs.github.io`](https://github.com/pavulabs/pavulabs.github.io). Changes in this beta repository never deploy to the production site.
 
 The beta site is public and marked `noindex`. Its Pages workflow publishes `main` automatically so site changes can be reviewed in a browser. The production repository has auto-merge disabled, requires a PR review, and requires `caiwl` to approve production deployment.
 
