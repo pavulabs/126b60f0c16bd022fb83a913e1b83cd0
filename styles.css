@@ -252,9 +252,17 @@ h1 {
 
 .hero-lede {
   max-width: 670px;
+  margin-bottom: 1rem;
+  color: var(--ink);
+  font-size: clamp(1.25rem, 2vw, 1.6rem);
+  line-height: 1.45;
+}
+
+.hero-detail {
+  max-width: 670px;
   margin-bottom: 2rem;
   color: var(--muted);
-  font-size: clamp(1.08rem, 1.6vw, 1.3rem);
+  font-size: clamp(1rem, 1.4vw, 1.12rem);
   line-height: 1.7;
 }
 
